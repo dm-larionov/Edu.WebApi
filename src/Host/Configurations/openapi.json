@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 6.0 WebAPI - Education Process",
+    "Version": "v1",
+    "Description": ".NET 6.0 WebApi",
+    "ContactName": "Андрей Ванышев",
+    "ContactEmail": "dfybi@vanish.com",
+    "ContactUrl": "https://media.tenor.com/CyizlWwbNJYAAAAC/fumo-spin.gif",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://media.tenor.com/KaefJfwjvPsAAAAd/fumo-fumofumo.gif"
+  }
+}

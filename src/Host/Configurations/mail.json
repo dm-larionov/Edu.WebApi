@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "DisplayName": "Education Process",
+    "From": "RAMBLER_EMAIL",
+    "Host": "smtp.rambler.ru",
+    "Password": "RAMBLER_PASS",
+    "Port": 587,
+    "UserName": "RAMBLER_EMAIL"
+  }
+}

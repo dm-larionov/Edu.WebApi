@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=EducationProcessDemo;Trusted_Connection=True;MultipleActiveResultSets=true;"
+  }
+}

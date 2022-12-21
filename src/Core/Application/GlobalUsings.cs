@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using Edu.WebApi.Application.Common.Events;
+global using Edu.WebApi.Application.Common.Exceptions;
+global using Edu.WebApi.Application.Common.FileStorage;
+global using Edu.WebApi.Application.Common.Interfaces;
+global using Edu.WebApi.Application.Common.Models;
+global using Edu.WebApi.Application.Common.Persistence;
+global using Edu.WebApi.Application.Common.Specification;
+global using Edu.WebApi.Application.Common.Validation;
+global using Edu.WebApi.Domain.Catalog;
+global using Edu.WebApi.Domain.Common;
+global using Edu.WebApi.Domain.Common.Contracts;
+global using Edu.WebApi.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
